@@ -35,10 +35,57 @@ export const categories = [
   }, {
     name: 'Web Development',
     color: '#cc7b94',
+  }, {
+    name: 'Hand-Eye Coordination',
+    color: '#f59e42',
+  }, {
+    name: 'Sports',
+    color: '#fff347',
+  }, {
+    name: 'Management',
+    color: '#998a9e',
+  }, {
+    name: 'Cooking',
+    color: '#d342ff',
   },
 ];
 
 export const skills = [
+  {
+    title: 'Ultimate Frisbee',
+    compentency: 4,
+    category: ['Sports', 'Hand-Eye Coordination'],
+  },
+  {
+    title: 'Leadership',
+    compentency: 4,
+    category: ['Management'],
+  },
+  {
+    title: 'Public Speaking',
+    compentency: 4,
+    category: ['Other'],
+  },
+  {
+    title: 'Thai Food',
+    compentency: 4,
+    category: ['Cooking', 'Hand-Eye Coordination'],
+  },
+  {
+    title: 'Hockey',
+    compentency: 2,
+    category: ['Sports', 'Hand-Eye Coordination'],
+  },
+  {
+    title: 'Fantasy Hockey',
+    compentency: 4,
+    category: ['Sports', 'Management'],
+  },
+  {
+    title: 'Dropping something and then immediately catching it',
+    compentency: 5,
+    category: ['Hand-Eye Coordination'],
+  },
   {
     title: 'Javascript',
     compentency: 4,
