@@ -1,83 +1,67 @@
 
 #### Intro
-I am a co-founder and the CTO of [Arthena](https://arthena.com) where I work on engineering infrastructure and build tools to price fine art. My primary job functions are as a data scientist and software engineer.
+I am an extroverted person who loves both the creative and technical sides of life. I am currenty a Software Developer at [X2O_Media](https://www.x2omedia.com/).
 <br>
-I am available to consult on interesting projects. I am particularly interested in social impact, education, inclusivity, and space. I enjoy advising companies and may even be available for pro-bono work depending on the time commitment and the project. If you would like to arrange a meeting, I am based in New York but travel to the San Francisco Bay Area frequently.
+I love trying new things, helping others, and being on teams. I am particularly interested in education, inclusivity, public health, and design. I enjoy helping others do just about anything as well as volunteering.
 <br><br>
 #### Currently
-At Arthena I have learned how to build teams and manage people, build relationships with customers, sell enterprise products, and build on-line predictive models for production environments. I've also learned how to build and maintain large web applications (see [arthena.com](https://arthena.com)).
+As a recent university graduate I am trying to find out where I belong in this large world we all live in. I have chosen to follow my degree and become a Software Developer as of right now. When I am not working, I am writing, cooking, or playing Ultimate Frisbee. 
 <br><br>
 #### Some History
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
+- My parents are incredibly different and their differences helped define me as person. My father was a drummer for 25 years and is now a sound engineer. My mother worked in the marketing industry and is now taking all of her experience and starting her own consulting business (nobody who works harder or more passionately than her). 
 
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
+- Because of these differing backgrounds I was raised to be (O P E N - M I N D E D). This made it difficult to figure out how to harness my equal parts of creativity and technical interest.
 
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
+- My first memory of using a computer was when I was 7 in the UK playing Carmen Sandiego on the all-in-one Macintosh Desktops. (mine was sky blue and beautiful)
 
-- At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
+- At 11, I got married and divorced within 6 months (having a british accent in 5th grade proved dramatic). I also realized that I was not very tall so Basketball and Baseball did not make sense as career options. I took this as a sign to figure out what I was good at; this is when I fell in love with math.
 
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
+- At 13, I joined a First Robotics Team [CougarTech](http://www.hflrobotics.com/) thanks to my best friend's brother dragging us to meetings. Learning to build, program, work with others and love healthy competition all became foundational elements of a lot future interests.
 
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
+- At 15, I moved high schools and became an I.T. assistant for my high school which is when I learned about linux, the terminal, and how to build a computer. I gravitated towards controlling the computer through the terminal versus the actual architecture of the system. I also finally discovered the only sport I excelled at, Ultimate Frisbee. I started my own team a month later.
 
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without the permission of my parents). Over the next few years, I built several more including one of the first audio modulated coils and one of the first DRSSTCs.
+- At 16 & 17, the Robotics Team I was on [Windham_Windup](http://www.team3467.org/)competed at the National Championship level and I fell in love with Java programming throughout the entire experience of designing, creating, and competing with our robots (named Skip-5 and Wingman)
 
-- When I was 12, I set the all-time high record at my local laser tag facility by reverse engineering the charging station and weapon protocols with a photo-resistor, micro-cassette recorder, and a lot of patience. I was unstoppable.
+- At 18, I figured out the importance of networking and began attending technical conferences in Montreal as well as introducing myself to as many people as I could meet. I created my first personal website, web-scraper and I met my 2 best friends. Also, my passion for cooking exploded like a california wildfire.
 
-- At 13, I went to space camp and fell in love. I went back two more times and promised myself that I'd work in space. I've since helped build three generations of satellites and have tangentially worked on two more.
+- At 21, both academically and socially I had the best year of my life. I took super interesting courses in Machine Learning and Software Engineering Design. I was living in a 6 person loft with 5 other incredible human beings who I lucky to have within my inner circle today. I also became the McGill Ultimate Frisbee President, which was a blast!
 
-- At 14, I was almost expelled for finding a backdoor into my high school's file server and telling everyone but the faculty members about it. Later that year, I figured out how to turn off the internet firewall by editing system registry keys. I anonymously shared my work months later.
-
-- At 16, I participated in a foreign exchange program in Dortmund, Germany. Since then, I've gone back almost every year.
-
-- 14 - 17, I played a lot of video games. My favorites included Counter Strike Source, Command and Conquer 3, Halo 2, and Age of Empires 3.
-
-- At 18, In the summer before college, my friends and I started playing <a href="https://en.wikipedia.org/wiki/Quidditch_(sport)">Muggle Quidditch</a>. We went on to start over 8 teams in the [International Quidditch Association](https://en.wikipedia.org/wiki/International_Quidditch_Association) including the [Buffalo Quidditch Society](https://www.facebook.com/buffaloquidditch/). At our height, we were ranked third in the IQA. Although I don't play anymore, you can still see pictures of me holding a broom while wearing a chess camp t-shirt on facebook.
-
-- At 19, I took my first graduate course and published my first academic paper.
-
-- At 20, I coauthored a grant to build a satellite and managed a 60+ person team through the end of undergrad. You can read more about that [here](https://ubnl.space/glados/).
+- At 22, I graduated from [McGill_University](https://www.mcgill.ca) and then worked for McGill as a contractor until I got hired by [X2O_Media](https://www.x2omedia.com/). I currently live with an amazing roommate (weirdly we share a birthday (he's older by 4 hours)), in an amazing apartment, in the lively city of Montreal.
 
 You can ask me in person for other stories that I'm afraid to share with the internet.
 <br><br>
 #### I like
-- Skiing
-- Sailing and the sea
-- Space
-- Summer
-- [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils
-- NPR podcasts
-- [Photography](https://instagram.com/dangelosaurus)
+- Socializing
+- Trying new things
+- Cooking (Thai, Japanese, Indian, Mexican, Italian, Vegetarian, Vegan, etc...)[Food_Photography](https://instagram.com/cookingwithryanb)
+- Early Summer and Late Fall
+- Music [Spotify](https://open.spotify.com/user/huckmasterfinn?si=x9Zy4vHWRhyij-68d0ylbQ)
+- Ultimate Frisbee
+- Hockey podcasts/ Fantasy Hockey (VGK fan)
+- [Being_Myself](https://instagram.com/ambroseryanb)
+- Quality TV, filmed and animated.
 
 #### Travel / Geography
 
-- I am from originally from Buffalo, New York. I have since lived in
-Palo Alto, Mountain View, San Francisco, Seattle, and New York.
+- I am from originally from Long Island, New York. I have since lived in the (Chalfort St Peter, UK), (Rochester, New York), (North Andover, Massachussetts), (Montréal, Quebec)
 
-- I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
+- I've been to ~ 17 countries, I would likely quadruple this number, and many of which I would like to revisit.
 
-- In 2016, I visited: Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
+- My mother being the brilliant woman she is, has been responsibly for 16/17 of these visited countries. She instilled my curiousity for other cultures as a result
 
-- In 2017, I visited: Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
-
-- In 2018, I visited: Canada, France, Italy, Israel, and the U.K.
-
-- In 2019, I plan to visit: the U.K., France, Canada, Australia, Chile, Nepal, and Norway.
-
-- I am an Oregon Trail II enthusiast.
+- I am a national park enthusiast.
 
 #### Fun Facts
 
-- I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
-- I almost always have a sketchbook with me.
-- I can't locate every country on a map.
-- I operate a [small angel fund](http://skepticalinvestments.biz/) with terrible returns.
-- I added this page because so many people complained that my site was just a resume.
+- I can't do a handstand.
+- I found one of my seven supposed dopplegangers [Click_here_for_doppleganger_#1](https://www.google.com/search?q=Nile+Wilson&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjuive2jY_jAhWyg-AKHWIgDl8Q_AUIESgC&biw=1440&bih=826&dpr=2)
+- I am incredibly terrible at pronouncing last names.
+- My word is bond.
+- I believe in always rounding in your favor.
 
 #### I dream of
-- always finding inspiration.
-- enabling a brighter future.
-- doing better.
-- no one checking my commit history for early drafts of this file.
+- doing a stand-up comedy special for Netflix.
+- having my own talk-show -- I.E becoming the next David Letterman.
+- making mistakes, but never repeating them.
+- the of the show One Piece.
