@@ -18,7 +18,7 @@ const validateText = (text) => {
 const messages = [
   'hi',
   'hello',
-  'hola',
+  'bonjour',
   'you-can-email-me-at-literally-anything! Really',
   'well, not anything. But most things',
   'like-this',
@@ -29,7 +29,9 @@ const messages = [
   'please-work-for-us',
   'help',
   'admin',
-  'or-I-really-like-your-website',
+  'or-I-really-like-you-lets-get-married',
+  'or-come-visit-me',
+  'or-lets-go-on-an-adventure',
   'I\'ll-stop-distracting-you-now',
   'thanks',
 ];
@@ -94,9 +96,9 @@ const Contact = () => {
             onMouseEnter={() => setIsActive(false)}
             onMouseLeave={() => (idx < messages.length) && setIsActive(true)}
           >
-            <a href={validateText(message) ? `mailto:${message}@mldangelo.com` : ''}>
+            <a href={validateText(message) ? `mailto:${message}@ambroseryanb.com` : ''}>
               <span>{message}</span>
-              <span>@mldangelo.com</span>
+              <span>@ambroseryanb.com</span>
             </a>
           </div>
         </div>

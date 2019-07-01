@@ -18,12 +18,12 @@ const data = [
     label: 'Stars this repository has on github',
     key: 'stargazers_count',
     value: '0',
-    link: 'https://github.com/mldangelo/personal-site/stargazers',
+    link: 'https://github.com/ambr0se6/personal-site/stargazers',
   }, {
     label: 'Number of people watching this repository',
     key: 'subscribers_count',
     value: '1',
-    link: 'https://github.com/mldangelo/personal-site/stargazers',
+    link: 'https://github.com/ambr0se6/personal-site/stargazers',
   }, {
     label: 'Number of forks',
     key: 'forks',
