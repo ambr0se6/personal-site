@@ -14,7 +14,7 @@ const Nav = () => (
       </Link>
       <header>
         <h3>Ambrose Ryan Burgett</h3>
-        <p><a href="mailto:arburgett1@gmail.com">arburgett1@gmail.com</a></p>
+        <p><a href="mailto:me@ambroseryanb.com">me@ambroseryanb.com</a></p>
       </header>
     </section>
 
@@ -36,7 +36,7 @@ const Nav = () => (
           <li key={s.label}><a href={s.link}><FontAwesomeIcon icon={s.icon} /></a></li>
         ))}
       </ul>
-      <p className="copyright">&copy; Ambrose Ryan Burgett <Link to="/">arburgett1.com</Link>.</p>
+      {/* <p className="copyright">&copy; Ambrose Ryan Burgett <Link to="/">arburgett1.com</Link>.</p> */}
     </section>
   </section>
 );
