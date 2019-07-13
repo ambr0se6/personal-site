@@ -69,7 +69,7 @@ export const skills = [
   {
     title: 'Thai Food',
     compentency: 4,
-    category: ['Cooking', 'Hand-Eye Coordination'],
+    category: ['Cooking'],
   },
   {
     title: 'Hockey',
