@@ -1,6 +1,6 @@
 
 #### Intro
-I am an extroverted person who loves both the creative and technical sides of life. I am currenty a Software Developer at [X2O_Media](https://www.x2omedia.com/).
+I am an extroverted person who loves both the creative and technical sides of life. I am currenty a Software Developer at [X2O Media](https://www.x2omedia.com/).
 <br>
 I love trying new things, helping others, and being on teams. I am particularly interested in education, inclusivity, public health, and design. I enjoy helping others do just about anything as well as volunteering.
 <br><br>
@@ -21,13 +21,13 @@ As a recent university graduate I am trying to find out where I belong in this l
 
 - At 15, I moved high schools and became an I.T. assistant for my high school which is when I learned about linux, the terminal, and how to build a computer. I gravitated towards controlling the computer through the terminal versus the actual architecture of the system. I also finally discovered the only sport I excelled at, Ultimate Frisbee. I started my own team a month later.
 
-- At 16 & 17, the Robotics Team I was on [Windham_Windup](http://www.team3467.org/)competed at the National Championship level and I fell in love with Java programming throughout the entire experience of designing, creating, and competing with our robots (named Skip-5 and Wingman)
+- At 16 & 17, the Robotics Team I was on [Windham Windup](http://www.team3467.org/) competed at the National Championship level and I fell in love with Java programming throughout the entire experience of designing, creating, and competing with our robots (named Skip-5 and Wingman)
 
 - At 18, I figured out the importance of networking and began attending technical conferences in Montreal as well as introducing myself to as many people as I could meet. I created my first personal website, web-scraper and I met my 2 best friends. Also, my passion for cooking exploded like a california wildfire.
 
 - At 21, both academically and socially I had the best year of my life. I took super interesting courses in Machine Learning and Software Engineering Design. I was living in a 6 person loft with 5 other incredible human beings who I lucky to have within my inner circle today. I also became the McGill Ultimate Frisbee President, which was a blast!
 
-- At 22, I graduated from [McGill_University](https://www.mcgill.ca) and then worked for McGill as a contractor until I got hired by [X2O_Media](https://www.x2omedia.com/). I currently live with an amazing roommate (weirdly we share a birthday (he's older by 4 hours)), in an amazing apartment, in the lively city of Montreal.
+- At 22, I graduated from [McGill University](https://www.mcgill.ca) and then worked for McGill as a contractor until I got hired by [X2O Media](https://www.x2omedia.com/). I currently live with an amazing roommate (weirdly we share a birthday (he's older by 4 hours)), in an amazing apartment, in the lively city of Montreal.
 
 You can ask me in person for other stories that I'm afraid to share with the internet.
 <br><br>
@@ -39,7 +39,7 @@ You can ask me in person for other stories that I'm afraid to share with the int
 - Music [Spotify](https://open.spotify.com/user/huckmasterfinn?si=x9Zy4vHWRhyij-68d0ylbQ)
 - Ultimate Frisbee
 - Hockey podcasts/ Fantasy Hockey (VGK fan)
-- [Being_Myself](https://instagram.com/ambroseryanb)
+- [Being Myself](https://instagram.com/ambroseryanb)
 - Quality TV, filmed and animated.
 
 #### Travel / Geography
@@ -55,7 +55,7 @@ You can ask me in person for other stories that I'm afraid to share with the int
 #### Fun Facts
 
 - I can't do a handstand.
-- I found one of my seven supposed dopplegangers [Click_here_for_doppleganger_#1](https://www.google.com/search?q=Nile+Wilson&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjuive2jY_jAhWyg-AKHWIgDl8Q_AUIESgC&biw=1440&bih=826&dpr=2)
+- I found one of my seven supposed dopplegangers [Click here for doppleganger #1](https://www.google.com/search?q=Nile+Wilson&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjuive2jY_jAhWyg-AKHWIgDl8Q_AUIESgC&biw=1440&bih=826&dpr=2)
 - I am incredibly terrible at pronouncing last names.
 - My word is bond.
 - I believe in always rounding in your favor.
@@ -64,4 +64,4 @@ You can ask me in person for other stories that I'm afraid to share with the int
 - doing a stand-up comedy special for Netflix.
 - having my own talk-show -- I.E becoming the next David Letterman.
 - making mistakes, but never repeating them.
-- the of the show One Piece.
+- the of the end of the show One Piece.
