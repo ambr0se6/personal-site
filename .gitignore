@@ -43,3 +43,8 @@ tmp/
 
 # Nohup
 nohup.out
+
+#SSL
+.crt
+.pem
+
